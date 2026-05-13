@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462667388062",
+    "project_id": "glamorabeauty-1aea1",
+    "storage_bucket": "glamorabeauty-1aea1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462667388062:android:3c53d52e9a4b59f440978f",
+        "android_client_info": {
+          "package_name": "com.example.oel_lab_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpH1RLu1BgqdBbue_zCK3BQDCS07L2DvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
